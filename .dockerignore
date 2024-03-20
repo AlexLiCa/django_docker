@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+db.sqlite3
+.DS_Store
+*.log
+.env
+.venv
+venv/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+node_modules/
+staticfiles/
+mediafiles/
